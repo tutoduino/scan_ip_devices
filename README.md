@@ -1,5 +1,5 @@
 # scan_ip_devices
-A python program to ping-scan IP devices within a network range
+A multi-thread python3 program to ping-scan IP devices within a network range
 
 Example : 
 
